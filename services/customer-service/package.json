@@ -1,6 +1,16 @@
 {
+  "name": "customer-service",
+  "version": "1.0.0",
+  "description": "customer service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
   "dependencies": {
     "axios": "^0.27.2",
     "restify": "^8.6.1"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
