@@ -1,0 +1,118 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "authenticated": true,
+            "api_key": "c4906eba-bc7d-40a7-974c-7eed9bf9ec14"
+        },
+        {
+            "id": 2,
+            "authenticated": false,
+            "api_key": "c5529a55-54ac-47a1-9660-ff0f4eb0f075"
+        }
+    ],
+    "domains": [
+        {
+            "id": 1,
+            "name": "vistaprint.com"
+        },
+        {
+            "id": 2,
+            "name": "pen.io"
+        },
+        {
+            "id": 3,
+            "name": "un.org"
+        },
+        {
+            "id": 4,
+            "name": "creativecommons.org"
+        },
+        {
+            "id": 5,
+            "name": "cargocollective.com"
+        },
+        {
+            "id": 6,
+            "name": "cpanel.net"
+        },
+        {
+            "id": 7,
+            "name": "blogger.com"
+        },
+        {
+            "id": 8,
+            "name": "yale.edu"
+        },
+        {
+            "id": 9,
+            "name": "edublogs.org"
+        },
+        {
+            "id": 10,
+            "name": "shop-pro.jp"
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Elana Bengtsen",
+            "email": "ebengtsen0@hc360.com",
+            "domain_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Stefa Robeiro",
+            "email": "srobeiro1@nytimes.com",
+            "domain_id": 2
+        },
+        {
+            "id": 3,
+            "name": "Woodrow Pietranek",
+            "email": "wpietranek2@blogger.com",
+            "domain_id": 3
+        },
+        {
+            "id": 4,
+            "name": "Zeb Matula",
+            "email": "zmatula3@list-manage.com",
+            "domain_id": 4
+        },
+        {
+            "id": 5,
+            "name": "Darn Ridsdale",
+            "email": "dridsdale4@imgur.com",
+            "domain_id": 5
+        },
+        {
+            "id": 5,
+            "name": "Sam Reihm",
+            "email": "sreihm4@freewebs.com"
+        },
+        {
+            "id": 6,
+            "name": "Honoria McElree",
+            "email": "hmcelree5@acquirethisname.com"
+        },
+        {
+            "id": 7,
+            "name": "Toby Gairdner",
+            "email": "tgairdner6@diigo.com"
+        },
+        {
+            "id": 8,
+            "name": "Hollyanne Swate",
+            "email": "hswate7@cmu.edu"
+        },
+        {
+            "id": 9,
+            "name": "Theadora Yeld",
+            "email": "tyeld8@theatlantic.com"
+        },
+        {
+            "id": 10,
+            "name": "Nathaniel Massy",
+            "email": "nmassy9@mashable.com"
+        }
+    ]
+}
